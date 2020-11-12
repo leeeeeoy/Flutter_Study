@@ -14,7 +14,7 @@ flutter 스터디 Repo입니다.
 - 매주 공부한 내용 정리해서 PR 할 것!!
 - 작성한 코드 or 디자인 이미지 + 리드미 파일로 간단하게 정리
 - 해당 디렉토리 구조를 참고하여 본인 폴더안에 주차별로 정리할 것
-- 리드미 파일 예시 --> <a href = "https://github.com/leeeeeoy/Flutter_Study/blob/master/study/leeeeeoy/README.md">Click</a>
+- 리드미 파일 예시 --> <a href = "https://github.com/leeeeeoy/Flutter_Study/blob/master/study/leeeeeoy/20-11-08/README.md">Click</a>
 
 ```
 Flutter_Study
