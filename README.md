@@ -4,10 +4,10 @@ flutter 스터디 Repo입니다.
 
 ## :two_men_holding_hands:스터디원
 
-- 안준규
-- 김동현
-- 변규리
-- <a href = "https://github.com/leeeeeoy">장요엘</a>
+- <a href="https://github.com/AJK0516">AJK5016</a>
+- <a href="https://github.com/kimvjgd">kimvjgd</a>
+- <a href = "https://github.com/byungyurii">byungyurii</a>
+- <a href = "https://github.com/leeeeeoy">leeeeeoy</a>
 
 ## :eyes:진행
 
